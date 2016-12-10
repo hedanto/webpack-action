@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hedanto/webpack-action/issues"
   },
-  "homepage": "https://github.com/hedanto/webpack-action#readme"
+  "homepage": "https://github.com/hedanto/webpack-action#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
