@@ -1,0 +1,1 @@
+{"version":3,"file":"1.349366b013bd3dc80eb0.js","sources":["webpack2:///./src/chunk1.js?undefined"],"sourcesContent":["/**\n * Created by hedan on 2016/12/10.\n */\ndocument.write('<h1>Hello World chuck1</h1>');\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./src/chunk1.js\n// module id = 2\n// module chunks = 1"],"mappings":";;;;;;;;AAAA;AACA;AACA;AACA;;;;","sourceRoot":""}
